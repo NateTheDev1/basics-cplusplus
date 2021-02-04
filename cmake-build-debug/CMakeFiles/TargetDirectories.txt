@@ -1,0 +1,3 @@
+C:/Users/legen/Work/Basics/cmake-build-debug/CMakeFiles/Basics.dir
+C:/Users/legen/Work/Basics/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/legen/Work/Basics/cmake-build-debug/CMakeFiles/rebuild_cache.dir
