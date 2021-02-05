@@ -59,7 +59,49 @@ int main() {
 //      cout << fmin(3, 10) << endl;
 
 
+    string name;
+//    int age;
+//    cout << "Enter your age: ";
+//    cin >> age;
+//
+//    if(age >= 21) {
+//        cout << "You can drink!" << endl;
+//    } else {
+//        cout << "You're underage, sorry." << endl;
+//    }
+
+//    cout << "Enter your name: ";
+//    getline(cin, name);
+//    cout << "" << endl;
+//    cout << "Hello " << name << endl;
+
+//    double num1, num2;
+//
+//    cout << "Welcome To Nate's Calc" << endl;
+//
+//    cout << "Enter the first number: ";
+//    cin >> num1;
+//    cout << "Enter second number: ";
+//    cin >> num2;
+//
+//    cout << num1 + num2;
+
+//    string color, pluralNoun, celebrity;
+//
+//    cout << "Enter a color: ";
+//    getline(cin, color);
+//    cout << "Enter a plural noun: ";
+//    getline(cin, pluralNoun);
+//    cout << "Enter a celebrity: ";
+//    getline(cin, celebrity);
+//
+//    cout << "Roses are " << color << endl;
+//    cout << pluralNoun << " are blue" << endl;
+//    cout << "I love " << celebrity << endl;
+
+// Arrays
+
+
 
     return 0;
-
 }
