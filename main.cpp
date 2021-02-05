@@ -3,6 +3,8 @@
 using namespace std;
 
 
+
+
 int main() {
 //    console out - end line
 //    string characterName = "Nate";
@@ -19,10 +21,24 @@ int main() {
 //    int negativeAge = -50;
 //    float younging = 5.5;
 //    double gpa = 2.3;
+//    bool tired = true;
 
 
-
+//    cout << "Giraffe Academy\n";
+//    cout << "Hello" << endl;
+//
+//    string phrase = "Giraffe Academy";
+//    cout << phrase.length() << endl;
+//    cout << phrase[0];
+//    phrase[0] = 'b';
+//
+//    cout << phrase << endl;
+//
+//    cout << phrase.find('A', 0) << endl;
+//
+//    cout << phrase.substr(1, 5) << endl;
 
 
     return 0;
+
 }
