@@ -4,7 +4,65 @@
 using namespace std;
 
 
+//void sayHello(string name,  int age);
+
+//double cube(double num) {
+//    double result = num * num * num;
+//    return result;
+//}
+
+
+//class Book {
+//public:
+//    string title;
+//    string author;
+//    int pages;
+//
+//    Book() {
+//        cout << "Creating Empty Object" << endl;
+//        this->title = "no title";
+//        this->author = "no author";
+//        pages = 0;
+//    }
+//
+//    Book(string title, string author, int pages) {
+//        cout << "Creating Object" << endl;
+//        this->title = title;
+//        this->author = author;
+//        this->pages = pages;
+//    }
+//};
+
+//class Student {
+//public:
+//    string name;
+//    string major;
+//    double gpa;
+//
+//    Student(string aName, string aMajor, double aGpa) {
+//            name = aName;
+//            major = aMajor;
+//            gpa = aGpa;
+//    }
+//
+//    bool hasHonors() {
+//        if(gpa > 3.5) {
+//            return true;
+//        }
+//        return false;
+//    }
+//};
+
 int main() {
+
+//    Student student1("Jim", "Business", 2.4);
+//    Student student2("Pam", "Art", 3.6);
+//
+//
+//    cout << student2.hasHonors() << endl;
+//    cout << student1.hasHonors() << endl;
+
+
 //    console out - end line
 //    string characterName = "Nate";
 //    int characterAge = 21;
@@ -59,7 +117,7 @@ int main() {
 //      cout << fmin(3, 10) << endl;
 
 
-    string name;
+//    string name;
 //    int age;
 //    cout << "Enter your age: ";
 //    cin >> age;
@@ -100,8 +158,59 @@ int main() {
 //    cout << "I love " << celebrity << endl;
 
 // Arrays
+//
+//    int luckyNums[100] = {4, 7, 8, 13, 23};
+//
+//    cout << luckyNums[0] << endl;
+//
+//    luckyNums[1] = 100;
+//    cout << luckyNums[1] << endl;
 
+// Functions
+
+
+//
+//    sayHello("Nate", 21);
+//    sayHello("Joe", 50);
+//    sayHello("Tom", 30);
+
+
+//    cout << cube(10) << endl;
+//    cout << cube(20) << endl;
+
+// Logic
+
+//    bool isMale = true;
+//
+//    bool isTall = false;
+//
+//    if(isMale && isTall) {
+//        cout << "You are a tall male";
+//    } else if(isMale || isTall) {
+//        cout << "You are male or tall and male or maybe just tall.";
+//    } else {
+//        cout << "You are not male or not tall";
+//    }
+
+
+// Pointers
+
+//    int age = 21;
+//    double gpa = 4.0;
+//    string name = "Nate";
+//
+//    cout << &age << endl;
+
+
+//    Book book1 =  Book("Harry Potter", "JK. Rowling", 500);
+//
+//    cout << book1.title;
+//
 
 
     return 0;
 }
+//
+//void sayHello(string name, int age) {
+//    cout << "Hello " << name << " you are " << age << " years old." << endl;
+//}
